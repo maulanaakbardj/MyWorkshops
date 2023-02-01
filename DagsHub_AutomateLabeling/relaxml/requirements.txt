@@ -1,0 +1,4 @@
+fastapi
+pydantic
+uvicorn
+label-studio-tools
